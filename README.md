@@ -34,7 +34,7 @@ Designed a **dashboard** based on specific queries from the **CEO** and **CMO**,
 
 ---
 
-## 📢 4️⃣ Communicating Insights  
+## 📢 4️⃣ Insights Presentation  
 A **video presentation** was recorded to effectively communicate the **findings and recommendations** based on the visualized data. This presentation ensures that business leaders can make informed decisions backed by data.  
 
 ---
@@ -54,7 +54,7 @@ A **video presentation** was recorded to effectively communicate the **findings 
 - Online Retail Report - Tata (Task 3).pdf
 
 📌 **Video Presentation**
-- Communicating Insights - Tata (Task 4).mp4
+- Insights Presentation - Tata (Task 4).mp4
 
 Providing PDF file of the dashboard so that it will be easy for all to view it.
 
